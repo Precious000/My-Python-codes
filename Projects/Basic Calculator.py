@@ -10,4 +10,3 @@ number2 = input("Pick another number: ")
 total = float(number1) * float(number2)
 
 print(total)
-password: 00ushhususu
